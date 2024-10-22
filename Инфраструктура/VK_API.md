@@ -1,25 +1,25 @@
 Методы VK API, которые мы можем найти полезными в ходе работы над проектом:
 
 Auth:
-https://dev.vk.com/ru/method/secure
+[Secure](https://dev.vk.com/ru/method/secure)
 
 User data:
-https://dev.vk.com/ru/method/users.get
-https://dev.vk.com/ru/method/database (База ВУЗов)
+[Данные профиля, пользователя](https://dev.vk.com/ru/method/users.get)
+[База ВУЗов](https://dev.vk.com/ru/method/database)
 
 Backend:
-https://dev.vk.com/ru/method/docs (операции с документами/файлами)
-https://dev.vk.com/ru/method/storage (хранение переменных со скоупом по пользователям, альтернатива БД)
+[Операции с документами/файлами](https://dev.vk.com/ru/method/docs)
+[Хранение переменных со скоупом по пользователям, альтернатива БД](https://dev.vk.com/ru/method/storage)
 
-Forms:
-https://dev.vk.com/ru/method/leadForms (формы с полями, можно использовать временно для замещения частей UI)
+Forms
+[Формы с полями, можно использовать временно для замещения частей UI](https://dev.vk.com/ru/method/leadForms)
 
 Gamification:
-[https://dev.vk.com/ru/method/apps.getSco...](https://dev.vk.com/ru/method/apps.getScore)
-[https://dev.vk.com/ru/method/apps.promoH...](https://dev.vk.com/ru/method/apps.promoHasActiveGift)
-[https://dev.vk.com/ru/method/apps.promoU...](https://dev.vk.com/ru/method/apps.promoUseGift)
+[Запрос Score](https://dev.vk.com/ru/method/apps.getScore)
+[Проверка промо-подарков](https://dev.vk.com/ru/method/apps.promoHasActiveGift)
+[Использование промо-подарков](https://dev.vk.com/ru/method/apps.promoUseGift)
 
 Testing:
-[https://dev.vk.com/ru/method/apps.addUse...](https://dev.vk.com/ru/method/apps.addUsersToTestingGroup)
-[https://dev.vk.com/ru/method/apps.remove...](https://dev.vk.com/ru/method/apps.removeTestingGroup)
-[https://dev.vk.com/ru/method/apps.remove...](https://dev.vk.com/ru/method/apps.removeUsersFromTestingGroups)
+[Добавление тестовых пользователей](https://dev.vk.com/ru/method/apps.addUsersToTestingGroup)
+[Удаление тестовой группы](https://dev.vk.com/ru/method/apps.removeTestingGroup)
+[Удаление тестовых пользователей](https://dev.vk.com/ru/method/apps.removeUsersFromTestingGroups)
